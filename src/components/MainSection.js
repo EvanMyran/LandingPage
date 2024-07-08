@@ -107,7 +107,7 @@ const MainSection = () => (
             </Link>
           </Box>
           <MotionImage
-            src="https://via.placeholder.com/500"
+            src="team.jpg"
             alt="Kirkwall Values"
             width={{ base: "100%", lg: "45%" }}
             objectFit="cover"
@@ -126,7 +126,7 @@ const MainSection = () => (
           id="our-philosophy"
         >
           <MotionImage
-            src="https://via.placeholder.com/500"
+            src="topdowncombine.jpg"
             alt="Kirkwall Philosophy"
             width={{ base: "100%", lg: "45%" }}
             objectFit="cover"
@@ -212,7 +212,7 @@ const MainSection = () => (
             </Link>
           </Box>
           <MotionImage
-            src="https://via.placeholder.com/500"
+            src="sensor.jpg"
             alt="Security Solutions"
             width={{ base: "100%", lg: "45%" }}
             objectFit="cover"
