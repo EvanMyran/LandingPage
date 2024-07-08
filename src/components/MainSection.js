@@ -26,7 +26,7 @@ const MainSection = () => (
           id="overview"
         >
           <Heading as="h1" size="2xl" mb={4} color="primary.100">
-            Comprehensive Security for Your Business
+            Comprehensive Monitoring for Your Business
           </Heading>
           <Text fontSize="lg" color="primary.200" mb={6}>
             Protect your critical infrastructure with our advanced monitoring and real-time alert system.
