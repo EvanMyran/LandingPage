@@ -111,8 +111,8 @@ const ThreatSection = () => (
             id="existential-threats"
           >
             <MotionImage
-              src="https://via.placeholder.com/500"
-              alt="network.jpg"
+              src="network.jpg"
+              alt="Existential Threats"
               width={{ base: "100%", lg: "45%" }}
               objectFit="cover"
               mb={{ base: 6, lg: 0 }}
