@@ -53,7 +53,7 @@ const ThreatSection = () => (
               </Link>
             </Box>
             <MotionImage
-              src="https://via.placeholder.com/500"
+              src="jobsite.jpg"
               alt="Foreign Attacks"
               width={{ base: "100%", lg: "45%" }}
               objectFit="cover"
@@ -72,7 +72,7 @@ const ThreatSection = () => (
             id="domestic-threats"
           >
             <MotionImage
-              src="https://via.placeholder.com/500"
+              src="combine2.jpg"
               alt="Domestic Threats"
               width={{ base: "100%", lg: "45%" }}
               objectFit="cover"
@@ -112,7 +112,7 @@ const ThreatSection = () => (
           >
             <MotionImage
               src="https://via.placeholder.com/500"
-              alt="Existential Threats"
+              alt="network.jpg"
               width={{ base: "100%", lg: "45%" }}
               objectFit="cover"
               mb={{ base: 6, lg: 0 }}
